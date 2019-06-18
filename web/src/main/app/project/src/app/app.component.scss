@@ -1,0 +1,17 @@
+$font: "Open Sans", "Helvetica Neue", sans-serif;;
+$font-color: #3d3d3d;
+
+$header-background-color: white;
+
+* {
+    color: $font-color;
+    font-family: $font;
+}
+
+div.header {
+    background-color: $header-background-color;
+}
+
+div {
+    border: solid thin green;
+}
