@@ -22,7 +22,7 @@
 		<commons-lang3.version>3.9</commons-lang3.version>
 		<flyway-core.version>5.2.4</flyway-core.version>
 		<eid-exceptions.version>1.2.0</eid-exceptions.version>
-		<guava.version>27.1-jre</guava.version>
+		<guava.version>29.0-jre</guava.version>
 	</properties>
 
 	<modules>
